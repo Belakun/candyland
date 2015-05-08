@@ -1,6 +1,6 @@
 (function() {
-function hw() {
-	alert("hello world!!!")
+function hw(message) {
+	alert(message)
 }
 
 })();
